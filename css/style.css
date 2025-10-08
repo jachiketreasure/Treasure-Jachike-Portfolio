@@ -281,7 +281,7 @@ header {
 
     .main {
         display: flex !important;
-        flex-direction: column-reverse !important;
+        flex-direction: column !important;
         text-align: center;
         gap: 1.5rem;
         padding: 1rem;
@@ -289,7 +289,7 @@ header {
         align-items: center;
     }
 
-    .main img {
+    .main .img {
         order: 1 !important;
         width: 300px !important;
         padding-top: 0 !important;
