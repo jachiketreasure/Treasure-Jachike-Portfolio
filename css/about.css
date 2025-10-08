@@ -69,11 +69,11 @@ body {
     }
 
     .about .container .image-about img {
-        width: 100%;
+        width: 130%;
         animation: floatUpDown 3s ease-in-out infinite;
         border: 1px solid black;
         border-radius: 20px;
-        filter: drop-shadow(0 0 25px #e1ff00) drop-shadow(0 10px 15px rgba(0, 0, 0, 0.2));
+        filter: drop-shadow(0 0 25px #1f242d) drop-shadow(0 10px 15px rgba(0, 0, 0, 0.2));
     }
 
 
