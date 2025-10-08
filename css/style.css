@@ -290,7 +290,8 @@ header {
     }
 
     .main img {
-        width: 350px !important;
+        order: 1 !important;
+        width: 300px !important;
         padding-top: 0 !important;
         margin: 0 auto !important;
         display: block !important;
